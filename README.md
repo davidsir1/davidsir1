@@ -1,4 +1,3 @@
-- Hi, I’m @davidsir1
 - Coming soon...
 
 <!---
