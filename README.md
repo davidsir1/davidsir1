@@ -6,7 +6,7 @@ Eu me chamo Davi Lima, possuo 20 anos e sou natural do Piauí. Estou cursando Ci
 
  <p align="left">
     <a href="https://www.youtube.com/@mrdavid5343?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Acesse meu canal" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=MEU CANAL&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtube subscribers" title="Acesse meu canal" src="https://custom-icon-badges.demolab.com/badge/youtube-red.svg?logo=youtube&logoSource=feather"/></a> 
 
 </p>
 
