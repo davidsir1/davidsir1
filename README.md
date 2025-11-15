@@ -71,13 +71,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-ori
 
 <img align="left"
     alt="GitHub Stats"
-        height="120"
+        height="200"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=davidsir1&show_icons=true&theme=transparent&title_color=d79921&icon_color=458588&text_color=fabd2f&locale=pt-br&include_all_commits=true"
 />
 <img align="left"
     alt="GitHub Stats"
-    height="100"
+    height="200"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsir1&layout=compact&theme=transparent&title_color=d79921&text_color=fabd2f"
 />
