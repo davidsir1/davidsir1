@@ -1,10 +1,14 @@
 # Davi Lima
 
+<p>
+<img src="https://custom-icon-badges.demolab.com/badge/Brasília-BRA-green?style=for-the-badge&logo=location&logoColor=white">
+<p>
+
 *`Mathematics is an art with numbers.`*
 
 Eu me chamo Davi Lima, possuo 20 anos e sou natural do Piauí. Estou cursando Ciência da Computação na Universidade Católica de Brasília (UCB). Desde pequeno sempre tive contato com computador e aos 15 anos fui apresentado ao mundo da programação. Desde então, dedico a minha vida no mundo da tecnologia.
 
- <p align="left">
+<p align="left">
     <a href="https://www.youtube.com/@mrdavid5343?sub_confirmation=1">
          <img alt="youtube subscribers" title="Acesse meu canal" src="https://custom-icon-badges.demolab.com/badge/youtube-red.svg?logo=youtube&logoSource=feather"/></a> 
 
