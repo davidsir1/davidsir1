@@ -71,21 +71,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-ori
 
 - Em Construção...
 
-### Estastísticas
-
-<img align="left"
-    alt="GitHub Stats"
-        height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=davidsir1&show_icons=true&theme=transparent&title_color=d79921&icon_color=458588&text_color=fabd2f&locale=pt-br&include_all_commits=true"
-/>
-<img align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsir1&layout=compact&theme=transparent&title_color=d79921&text_color=fabd2f"
-/>
-
 <!---
 davidsir1/davidsir1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
