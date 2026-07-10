@@ -55,16 +55,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-origi
 style="padding-right: 5px;"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
+<img  
+style="padding-right: 5px;"
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img 
 style="padding-right: 5px;"
 width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-<img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img
 style="padding-right: 5px;"
 width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-</p>
-
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
 ### 📦 Projetos
 
 - Em Construção...
